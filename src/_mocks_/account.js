@@ -2,7 +2,7 @@
 
 const account = {
   displayName: 'Tutorhuntz',
-  email: 'demo@minimals.cc',
+  email: 'connect@tutorhuntz.com',
   photoURL: '/static/mock-images/avatars/avatar_default.jpg'
 };
 
